@@ -1,0 +1,30 @@
+Welcome to the help document of DDAWindowsPhone
+one
+What is DDAWindowsPhone
+DDAWindowsPhone is a mobile phone operating system based on JAVA language and DDAOSX system
+Convenient operation and only 68kb in size
+two
+How to use DDAWindowsPhone:
+Emm is like using a mobile phone, but it is not optimized completely, so please follow the prompts to operate some functions
+three
+How to open DDAWindowsPhone:
+First, you need to configure a JAVA environment and have an IDE (integrated development environment, commonly known as compiler)
+Then, click DDAWindowsPhone (or DDAWindowsPhone. java) to start running
+four
+The download address is currently the internal beta version, and there is no download address. Later, I will publish it to github
+five
+What can I do if I cannot use it:
+Maybe you haven't configured the Java environment. Please check it
+Test method:
+1. Press and hold win+r to open the run box
+2. Enter cmd
+3. Enter "java - version"
+4. If the content and jdk version appear, it is configured. If there is no or an error is reported, it is not configured. Reconfigure
+six
+What to do if there is garbled code:
+Change the default encoding method of the system to UTF-8 encoding, which can be directly seen in IDEA
+The first line contains: UTF-8 is the default code of UTF-8. If it is not UTF-8, go online to search how to change it to UTF-8
+(I won't)
+=)
+
+----------------------------------------------------------------------by Dream2

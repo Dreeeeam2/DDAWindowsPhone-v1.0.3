@@ -1,0 +1,4 @@
+1. Run Appliction.java first
+Download all the contents and then run the software
+2. Check whether the computer has jdk installed
+3. run ErrorSolve.java

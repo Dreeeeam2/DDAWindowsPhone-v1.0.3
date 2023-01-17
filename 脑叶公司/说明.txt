@@ -1,0 +1,13 @@
+DDA技术部研发，可转载，可重写。
+该游戏是致敬《脑叶公司》的一款游戏
+1.下载运行不了怎么办？
+此游戏需要配置JAVA环境后运行，并需要一款编辑器
+如何配置java环境：https://www.runoob.com/java/java-environment-setup.html
+安装编辑器：https://www.jetbrains.com/idea/
+破解：https://www.yht7.com/ideas
+2.怎么运行？
+安装后直接双击“脑叶公司v101.java”即可运行
+不喜勿喷()
+
+
+

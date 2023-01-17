@@ -1,0 +1,22 @@
+Hello
+Welcome to the introduction document of CDos
+Author of this program: Dream2
+Nationality: Chinese
+==========================
+1. What is CDos?
+CDos is a terminal based operating system, which can download resources, write and change files, real-time programming, etc
+The original language is used for programming: Clanguage;
+If you want to view the code of Clanguage, you can go to the "Clanguage" package.
+==========================
+2. How to run CDos
+Step:
+1. Prepare JAVA environment
+2. Download IDEA or Eclipse editor
+3. Click CDos.java to start running
+==========================
+3. Advantages of CDos:
+First: resources can be downloaded with high efficiency
+Second: Low memory consumption
+Third: Low requirements for computer configuration
+==========================
+-----------------------------------------------------------------------------------by Dream2
